@@ -1,5 +1,11 @@
 0. Hello World
+<<<<<<< HEAD
 Write a script that prints “Hello, World”, followed by a new line to the standard output.
+=======
+mandatory
+Score: 0.0% (Checks completed: 0.0%)
+Write a script that prints “Hello, World”, followed by a new line to the standard output
+>>>>>>> 49fb4595e7340d8512a4def11f62ec3b789d0799
 1. Confused smiley
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -110,3 +116,7 @@ Score: 0.0% (Checks completed: 0.0%)
 Write a script that displays all users and their home directories, sorted by users.
 
 Based on the the /etc/passwd file
+<<<<<<< HEAD
+=======
+
+>>>>>>> 49fb4595e7340d8512a4def11f62ec3b789d0799
